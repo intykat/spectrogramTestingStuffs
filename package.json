@@ -1,0 +1,16 @@
+{
+  "name": "spectrogramtestingstuffs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-image-pixels": "^1.0.1",
+    "get-pixels": "^3.3.3",
+    "lamejs": "^1.2.1"
+  }
+}
